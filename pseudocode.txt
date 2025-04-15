@@ -1,0 +1,12 @@
+EDITS:
+1. add text wrapping 
+    a. to top text section
+        a1. make sure it's constrained to its own section
+    b. and quote section
+        b1. make sure it's constrained to its own section
+
+2. change header texts
+    a. to Edo SZ
+
+3. change palette
+    a. to palette chosen for sign-up form project
