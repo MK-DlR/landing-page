@@ -1,5 +1,6 @@
 4/17/25:
 
+- Add fonts to match sign up form project
 - Adjust palette to match sign up form project 
 
 4/15/25:
