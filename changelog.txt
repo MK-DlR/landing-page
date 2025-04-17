@@ -1,4 +1,12 @@
+4/17/25:
+
+- Adjust palette to match sign up form project 
+
 4/15/25:
 
 - Create changelog file
 - Create pseudocode file for edits
+
+4/14/25:
+
+- Add links to sign up form
