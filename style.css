@@ -6,7 +6,7 @@ body {
 
 .header {
     height: 50px;
-    background: #1f2937;
+    background: #534728;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -27,7 +27,7 @@ body {
 
   .hero {
     height: 250px;
-    background: #1f2937;
+    background: #534728;
     display: flex;
     justify-content: space-between;
     padding-top: 30px;
@@ -61,7 +61,7 @@ body {
   }
 
   .button1 {
-    background-color: #3882F6;
+    background-color: #b99c71;
     border: none;
     border-radius: 4px;
     color: white;
@@ -87,14 +87,14 @@ body {
   .etitle {
     font-size: 36px;
     font-weight: bolder;
-    color: #1F2937;
+    color: #201b0d;
     display: flex;
     justify-content: center;
     padding: 10px;
   }
 
   .text {
-    color: #1F2937;
+    color: #201b0d;
     font-size: 12px;
     display: flex;
     flex-wrap: wrap;
@@ -118,8 +118,8 @@ body {
   }
 
   .quote {
-    background-color: #E5E7Eb;
-    color: #1F2937;
+    background-color: #f9fafb;
+    color: #201b0d;
     display: flex;
     flex-wrap: wrap;
     height: 250px;
@@ -147,7 +147,7 @@ body {
   }
 
   .bigbutton {
-    background-color: #3882F6;
+    background-color: #b99c71;
     color: white;
     width: 550px;
     height: 100px;
@@ -162,7 +162,7 @@ body {
   }
 
   .button2 {
-    background-color: #3882F6;
+    background-color: #b99c71;
     border: 1px solid #FFFFFF;
     border-radius: 4px;
     color: white;
@@ -179,7 +179,7 @@ body {
 
   .footer {
     height: 50px;
-    background: #1F2937;
+    background: #534728;
     color: #E5E7EB;
     display: flex;
     flex-direction: column;
